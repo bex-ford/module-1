@@ -14,13 +14,13 @@ This is module 1 challenge
 - I started by adding the ***header*** element at the beginning of the ***body*** tag as this is introductory content. 
 
 - I removed a div tag and replaced this with a nav tag as the information below is navigation links for users to access different pages (navigation links). 
-```md![image of naviagtion links](assets/images/navigation.png)```
+```md![image of naviagtion links](https://github.com/bex-ford/module-1/blob/main/assets/images/navigation.png?raw=true)```
 
 - I modified the starter code to ensure that the code is of high quality so that if a image is not uploaded is has a description of what that image would be following best practice guidelines. I did this by adding the ***alt*** attribute for each image. 
 
-- I added the ***main*** element as this specifies the ***main*** content of a document. HTML standards specifies that only one main element is to be included in a HTML document. ```md![image of main section](assets/images/main.png)```
+- I added the ***main*** element as this specifies the ***main*** content of a document. HTML standards specifies that only one main element is to be included in a HTML document. ```md![image of main section](https://github.com/bex-ford/module-1/blob/main/assets/images/main.png?raw=true)```
 
-- I added the ***aside*** element as the content in this section is a sidebar in this document ```md![image of aside section](assets/images/aside.png)```
+- I added the ***aside*** element as the content in this section is a sidebar in this document ```md![image of aside section](https://github.com/bex-ford/module-1/blob/main/assets/images/aside.png?raw=true)```
 
 - What i learned from completing this project was the importance user accessibility is to users. It will give users with disabilities the confidence to visit this website with no issues. I learned that by a website having best practice of accessibilty standards it is also better positioned in search engines like Google, achieves a higher ranking in search engine SERPs. SEO (Search Engine Optimization)is very important because it allows more traffic to the website.
 
