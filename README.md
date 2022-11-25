@@ -9,6 +9,13 @@ This is module 1 challenge
 
 - The problem this code solves is that it allows users with disabilities the best user experience:
 
+
+
+
+&nbsp;
+
+
+
 ***I modified the code to ensure it follows the current HTML semantics in order so the code is legible and clean:***
 
 - I started by adding the ***header*** element at the beginning of the ***body*** tag as this is introductory content. 
